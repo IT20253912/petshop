@@ -9,7 +9,7 @@
   <!-- 
     - primary meta tag
   -->
-  <title>Kitter - Hight Quality Pet Food</title>
+  <title>PetHeven</title>
   <meta name="title" content="Kitter - Hight Quality Pet Food">
   <meta name="description" content="This is an eCommerce html template made by codewithsadee">
 
@@ -53,7 +53,7 @@
         <ion-icon name="close-outline" aria-label="true" class="close-icon"></ion-icon>
       </button>
 
-      <a href="#" class="logo">Kitter</a>
+      <a href="#" class="logo">Pet Heven</a>
 
       <nav class="navbar" data-navbar>
         <ul class="navbar-list">
@@ -120,12 +120,12 @@
         <div class="container">
 
           <h1 class="h1 hero-title">
-            <span class="span">High Quality</span> Pet Food
+            <span class="span">Pet</span> Plateform
           </h1>
 
           <p class="hero-text">Sale up to 40% off today</p>
 
-          <a href="#" class="btn">Shop Now</a>
+          <a href="../marketplace/cart/index.php?page=products" class="btn">Shop Now</a>
 
         </div>
       </section>
@@ -826,7 +826,7 @@
 
         <div class="footer-brand">
 
-          <a href="#" class="logo">Kitter</a>
+          <a href="#" class="logo">Pet Heven</a>
 
           <p class="footer-text">
             If you have any question, please contact us at <a href="mailto:support@gmail.com"
@@ -838,15 +838,15 @@
             <li class="contact-item">
               <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
 
-              <address class="address">
-                30 Buttonwood St.Pataskala OH 43062
+              <address class="address"> 
+                30 Buttonwood St, Colombo
               </address>
             </li>
 
             <li class="contact-item">
               <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
 
-              <a href="tel:+16234567891011" class="contact-link">(+1)-6234-56-789-1011</a>
+              <a href="tel:+16234567891011" class="contact-link">(+94) 772289562</a>
             </li>
 
           </ul>
@@ -984,7 +984,7 @@
       <div class="container">
 
         <p class="copyright">
-          &copy; 2022 Made with ♥ by <a href="#" class="copyright-link">codewithsadee.</a>
+          &copy; 2023</a>
         </p>
 
         <img src="./assets/images/payment.png" width="397" height="32" loading="lazy" alt="payment method" class="img">
